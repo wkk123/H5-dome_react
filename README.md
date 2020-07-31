@@ -9,3 +9,7 @@
 #UI框架
 ##weui@1.1.0 react-weui
 ##https://weui.github.io/react-weui/docs/#/react-weui/docs/page/1/articles/0
+
+
+react react-redux redux redux-saga axios
+
